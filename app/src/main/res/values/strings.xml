@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My quiz</string>
+    <string name="quiz_title">The ultimate Harry Potter quiz</string>
+    <string name="first_question">1.What is the name of Harry\'s owl?</string>
+    <string name="confirmation">got it!</string>
+    <string name="second_question">2.Which people bellow are Ron Weasley\'s sibling(s)?</string>
+    <string name="george">George</string>
+    <string name="luna">Luna</string>
+    <string name="william">William</string>
+    <string name="percy">Percy</string>
+    <string name="thrid_question">3.The name of Harry\'s godson is:</string>
+    <string name="edward_lupin">Edward Lupin</string>
+    <string name="neville_lupin">Neville Lupin</string>
+    <string name="fourth_question">4.Snape\'s patronus was a(n):</string>
+    <string name="doe">Doe</string>
+    <string name="stag">Stag</string>
+    <string name="snake">Snake</string>
+    <string name="fifth_question">5.Hermione\'s Crookshanks is a(n):</string>
+    <string name="cat">Cat</string>
+    <string name="rat">Rat</string>
+    <string name="owl">Owl</string>
+    <string name="sixth_question">6.In Quiddich there are 3 balls, their names are are:</string>
+    <string name="snitch">Snitch</string>
+    <string name="quaffle">Quaffle</string>
+    <string name="bludgers">Bludgers</string>
+    <string name="thestral">Thestral</string>
+    <string name="seventh_question">7.Dumbledore\'s full name is Albus Persival Brian Dumbledore</string>
+    <string name="True">True</string>
+    <string name="False">False</string>
+    <string name="submit">SUBMIT</string>
+</resources>
